@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bansal-akshat/DSA-Practise/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/bansal-akshat/DSA-Practise/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/bansal-akshat/DSA-Practise/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
